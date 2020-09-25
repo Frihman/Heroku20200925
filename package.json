@@ -1,1 +1,21 @@
-{}
+{
+  "name": "heroku20200925",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frihman/Heroku20200925.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frihman/Heroku20200925/issues"
+  },
+  "homepage": "https://github.com/Frihman/Heroku20200925#readme",
+  "description": ""
+}
